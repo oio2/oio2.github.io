@@ -1,5 +1,5 @@
 {
-"spider":"https://oio2.github.io/ts.jar;md5;449aa602dce7e45af933e7afc05a07ea",
+"spider":"https://oio2.github.io/ts.jar;md5;b56df25d618ad76bc8aeb80b181a2685",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 
