@@ -1,5 +1,5 @@
 {
-"spider":"https://oio2.github.io/bc.jar;md5;727c472f6f06e2958ff50fbd0c2aae21",
+"spider":"https://oio2.github.io/bc.jar;md5;72ecaa6cda698d2d2c2ce57955bdc8a9",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 
@@ -14,12 +14,14 @@
 {"key":"csp_Kuaikan","name":"💫快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_Bttoo","name":"⚔️2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🅰️Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lib","name":"🔭Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"☕Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_appysv2_9E03","name":"💎9E国语(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_Buka","name":"⚡真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_n0ys","name":"🎖️1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_DY1990","name":"🎞️1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_555电影","name":"5⃣️555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oio2.github.io/MaooXB/555电影.json"},
-{"key":"csp_xpath_jbb","name":"⚪剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oio2.github.io/MaooXP/jubaibai.json"},
+{"key":"csp_biubiu_555电影","name":"5⃣️555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox-1308372858.cos.ap-shanghai.myqcloud.com/MaooXB/555电影.json"},
+{"key":"csp_xpath_jbb","name":"⚪剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox-1308372858.cos.ap-shanghai.myqcloud.com/MaooXP/jubaibai.json"},
 //{"key":"csp_Nbys","name":"🟤泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mjxq","name":"🌎美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_美剧虫","name":"🎄美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
